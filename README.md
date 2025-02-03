@@ -1,5 +1,5 @@
-# Project Title
-> Concise one-line description of the project.
+# State Estimators and NMPC Algorithms in Python
+> The aim of this project was develop a Python package containing nonlinear model predictive control (NMPC) and state estimator algorithms. This package was succesfully applied for the Van de Vusse reactor benchmark while considering set-point changes, unreachable set-point, disturbances, and mismatches. The
 
 ## 📖 Overview
 This repository contains the source code for State Estimators and NMPC Algorithms in Python, developed by Fernando Arrais Romero Dias Lima, Ruan de Rezende Faria , Rodrigo Curvelo , Matheus Calheiros Fernandes Cadorini, César Augusto García Echeverry, Maurício Bezerra de Souza Jr. and Argimiro Resende Secchi at the Laboratory of Software Development for Process Control and Optimization (LADES) - COPPE/UFRJ, in association with the Federal University of Rio de Janeiro.
